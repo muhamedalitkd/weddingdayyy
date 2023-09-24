@@ -25,7 +25,7 @@ $(document).ready(function(){
 
     // typing animation script 
     var typed = new Typed(".typing", {
-        strings: ["20 октября 2023 год", "Ресторан Uluu-Too Banquet Hall, ул. Сухэ-Батора 15/1"],
+        strings: ["20 октября 2023 год, время 18:00", "Ресторан Uluu-Too Banquet Hall, ул. Сухэ-Батора 15/1"],
         typeSpeed: 70,
         backSpeed: 40,
         loop: true
